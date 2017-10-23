@@ -47,3 +47,13 @@ p {
   margin-bottom: 15px;
   font-size: 16px;
 }
+
+img {
+  display: block;
+  margin: auto;
+  width: 400px;
+  height: 300px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
