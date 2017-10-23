@@ -22,7 +22,10 @@ body {
     background-color: lightblue;
 }
 
-#menu h1 {
-    color: #ff0000;
-    margin-left: 20px;
+h1 {
+  text-align: center;
+  color: #000000;
+  text-transform: uppercase;
+  text-shadow: 3px 2px gray;
 }
+
