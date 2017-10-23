@@ -1,7 +1,7 @@
 /* style sheet */
 
 #menu {
-  background-color: #00ff00;
+  background-color: hsl(120, 100%, 50%);
   position: relative;
   width: 100%;
   top: 0;
