@@ -57,3 +57,13 @@ img {
   margin-bottom: 15px;
   border-radius: 8px;
 }
+
+ul {
+  text-align: left;
+  margin-left: 30px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  list-style-type: circle;
+  list-style-position: inside;
+}
