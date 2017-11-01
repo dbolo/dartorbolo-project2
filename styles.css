@@ -11,15 +11,22 @@
   
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  
+  
+}
+
 ul li {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   float: left;
-  
 }
-
 body {
     background-color: lightblue;
 }
