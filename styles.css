@@ -22,6 +22,7 @@ table th {
   color: #FFF;
   border: 10px solid #ff0000
   padding 4px 30px 4px 8px;
+  font-size: 20px;
 }
 
 table td {
@@ -29,7 +30,7 @@ table td {
   padding: 4px 8px;
   font: italic;
   font: bold;
-  font-size: 17px;
+  
 }
 
 #menu ul {
