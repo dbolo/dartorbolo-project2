@@ -27,6 +27,9 @@ table th {
 table td {
   border: 10px solid #e3e3e3;
   padding: 4px 8px;
+  font: italic;
+  font: bold;
+  font-size: 20px;
 }
 
 #menu ul {
