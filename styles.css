@@ -72,6 +72,7 @@ h2, h3, h4 {
   padding: 10px;
   font-size: 20px;
   font-family: 'Roboto', serif;
+  text-decoration: underline;
 }
 
 p {
