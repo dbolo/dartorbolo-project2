@@ -21,7 +21,7 @@ table th {
   background-color: #3a6070;
   color: #FFF;
   border: 10px solid #ff0000
-  padding 4px 30px 4px 8px;
+  padding 4px;
   font-size: 20px;
 }
 
@@ -103,6 +103,3 @@ ul {
   list-style-position: inside;
 }
 
-iframe {
-  iframe: center-right;
-}
