@@ -77,6 +77,7 @@ h2, h3, h4 {
   font-size: 20px;
   font-family: 'Roboto', serif;
   text-decoration: underline;
+  padding-bottom: 1.222em;
 }
 
 p {
