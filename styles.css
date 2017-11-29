@@ -97,6 +97,10 @@ h3{
   padding-left: 95px;
 }
 
+h3:hover{
+  color: pink;
+}
+
 p {
   text-align: center;
   margin-left: 20px;
