@@ -68,26 +68,24 @@ body {
   background-color: lightblue;
 }
 
-h1 {
+ h1 {
   text-align: center;
   color: #0000FF;
   text-transform: uppercase;
   font-weight: bold;
   font-family: Arial, sans-serif;
-  font-size: 40px;    
-  
-}
+  font-size: 40px;   
+ }
 
-h2, h3, h4 {
+ h2{
   text-align: center;
   color: #000000;
   font-weight: bold;
-  padding: 10px;
+  padding-left: 95px;
   font-size: 20px;
   font-family: 'Roboto', serif;
-  text-decoration: underline;
-  padding-bottom: 1.222em;
 }
+
 
 p {
   text-align: center;
