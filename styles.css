@@ -139,3 +139,47 @@ ul {
     text-align: center;
   }
 
+  
+  #wk ul
+  {
+	width: 50%;
+	margin:auto;
+  
+  }
+
+  li {text-align: left; list-style: none;}
+
+  #info{text-align: center;}
+
+  #lib1
+{
+  text-align: left;
+  font-size: 20px;
+  font-style: italic
+}
+
+  #lib
+  {
+  text-align: left;
+  font-size: 20px;
+  font-style: italic;
+  margin-left: 7px;
+  }
+
+  #wk4
+  {
+	width: 50%;
+	margin:auto;
+  text-align: center;
+  }
+  
+  #wk3 ul{
+  text-align: left;
+	width: 50%;
+	margin:auto;
+  margin-left: 20px;
+  }
+  
+  #wk4 li{
+    text-align: center;
+  }
