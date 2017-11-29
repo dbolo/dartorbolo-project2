@@ -8,7 +8,6 @@
   margin-top: 20px;
   margin-bottom: 20px;
   
-  
 }
 
 table{
@@ -16,7 +15,6 @@ table{
 }
 
 table th {
-  
   text-align: center;
   background-color: #3a6070;
   color: #FFF;
@@ -36,6 +34,9 @@ table td {
   list-style-type: none;
   padding: 0;
   overflow: hidden;
+/*  margin-left: 500px; */
+  width: 100%;
+}
 
   }
   #video{
