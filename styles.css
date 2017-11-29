@@ -54,9 +54,12 @@ table td {
 #menu ul li a {
   padding: 20px;
   font-size: 20px;
-  font-family: Arial,sans-serif;
-  
+  font-family: Arial,sans-serif; 
 }
+#info li{
+  text-align: center;
+  }
+
 body {
   background-color: lightblue;
 }
